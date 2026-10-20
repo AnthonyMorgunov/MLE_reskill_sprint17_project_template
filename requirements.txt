@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+catboost
+optuna
+shap
+umap-learn
+torch
+transformers==4.57.6
+jupyter
